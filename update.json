@@ -1,0 +1,11 @@
+
+{
+    "version": "2.0.0",
+    "installer_url": "HIER_DEINEN_GITHUB_DOWNLOAD_LINK_EINFÜGEN",
+    "sha256": "HIER_DEINEN_SHA256_HASH_EINFÜGEN",
+    "changelog": [
+        "Verbesserungen",
+        "Fehlerbehebungen",
+        "Optimierungen"
+    ]
+}
