@@ -1,8 +1,8 @@
 
 {
     "version": "2.0.0",
-    "installer_url": "HIER_DEINEN_GITHUB_DOWNLOAD_LINK_EINFÜGEN",
-    "sha256": "HIER_DEINEN_SHA256_HASH_EINFÜGEN",
+    "installer_url": "https://github.com/Drixq1/Drixx-Utility-Updates/releases/download/v2.0.0/Drixx.Utility.exe",
+    "sha256": "sha256:4bc2dc4c97f277c1103cff8044d0a29b89409d9c0f92a3125f5291b850352d00",
     "changelog": [
         "Verbesserungen",
         "Fehlerbehebungen",
