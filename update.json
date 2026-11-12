@@ -1,11 +1,11 @@
 
 {
     "version": "2.0.2",
-    "installer_url": "https://github.com/Drixq1/Drixx-Utility-Updates/releases/download/v2.0.2/Drixx.Utility.exe",
-    "sha256": "sha256:b9bf19945b8a0b0d88fbf775700f43b225258887a0c665cc3b53d4e9132cb081",
+    "installer_url": "https://github.com/Drixq1/Drixx-Utility-Updates/releases/download/v2.0.3/Drixx.Utility.exe",
+    "sha256": "sha256:00806e31ecca47ec1c41121087fb8afd377597cd14eaba855cab03b438f01942",
     "changelog": [
-        "English Verbessert",
-        "Design verbessert",
-        "Mehr Tweaks"
+        "Mehr Tweaks",
+        "Registry Tweaks",
+        "Allgemein verbessert"
     ]
 }
